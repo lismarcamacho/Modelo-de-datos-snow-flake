@@ -28,3 +28,9 @@ Confirmamos que empleado y codempleado es el mismo tipo de datos
 
 ## Y ya tenemos nuestra vista de modelo
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7a26411-23da-4f60-8657-c62759c894c2" />
+
+Ahora nos vamos a la vista informe
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3936b814-aa5b-47b3-a2ee-a32e19d9032c" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c87ef0e8-5b2d-44b7-ae00-642cdf3c56b9" />
