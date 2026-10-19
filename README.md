@@ -34,3 +34,7 @@ Ahora nos vamos a la vista informe
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3936b814-aa5b-47b3-a2ee-a32e19d9032c" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/c87ef0e8-5b2d-44b7-ae00-642cdf3c56b9" />
+
+Ampliamos un poco la matriz
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/07d17d66-9ab9-4ad3-bb66-3d18e0926a3a" />
