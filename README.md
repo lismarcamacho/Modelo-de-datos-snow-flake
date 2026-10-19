@@ -38,3 +38,13 @@ Ahora nos vamos a la vista informe
 Ampliamos un poco la matriz
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/07d17d66-9ab9-4ad3-bb66-3d18e0926a3a" />
+
+## Agrgamos la segmentacion de datos 
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d7649619-3d20-4c6f-914d-81cc169b0eb6" />
+
+##y aqui podemos ver como se filtra
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/42f18c00-5422-4ae8-8b4a-aefc5695db5e" />
+
+
