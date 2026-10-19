@@ -8,4 +8,5 @@ Proyecto del curso intermedio de Santander Open Academy
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ba779fd1-e063-46a3-b3dc-5d77482a5cfa" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/10e957fe-3d11-41a4-9139-1e13655e4186" />
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6f15e9a5-8581-4e11-9019-d3730bbb1cca" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2c0063ab-5919-40da-8bc8-7381163375d8" />
+
