@@ -16,3 +16,4 @@ Y hacemos click en cerrar y aplicar
 ## Nos ubicamos en la vista modelo 
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8b3c4921-0b04-467b-aa95-24576a0f98ec" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f321a77d-40d1-49ed-a8a0-e7f1cbb2d1e2" />
