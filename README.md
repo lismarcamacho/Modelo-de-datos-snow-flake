@@ -22,3 +22,6 @@ Relacionamos tconceptos con tconceptos con tgastos
 
 Relacionamos tgastos con templeados
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b6787d81-2a6a-4e78-89a1-3960179d8795" />
+
+Confirmamos que empleado y codempleado es el mismo tipo de datos
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d7c0c143-2578-446c-a978-68125af3bfef" />
