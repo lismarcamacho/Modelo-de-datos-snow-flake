@@ -25,3 +25,6 @@ Relacionamos tgastos con templeados
 
 Confirmamos que empleado y codempleado es el mismo tipo de datos
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d7c0c143-2578-446c-a978-68125af3bfef" />
+
+## Y ya tenemos nuestra vista de modelo
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/f7a26411-23da-4f60-8657-c62759c894c2" />
