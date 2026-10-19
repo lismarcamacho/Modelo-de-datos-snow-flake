@@ -7,3 +7,4 @@ Proyecto del curso intermedio de Santander Open Academy
 ## Transformamos datos
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ba779fd1-e063-46a3-b3dc-5d77482a5cfa" />
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/10e957fe-3d11-41a4-9139-1e13655e4186" />
